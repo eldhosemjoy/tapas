@@ -1,0 +1,6 @@
+{
+    "vocab"  : "model/vocab.txt",
+    "model"  : "model/tapas_sqa_base.pb",
+    "gpu"    : false,
+    "port"   : 5000 
+}
