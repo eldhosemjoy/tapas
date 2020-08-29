@@ -1,6 +1,6 @@
 # TAble PArSing (TAPAS) - Service Adaptation
 
-This is a service adpatation of the google repository https://github.com/google-research/tapas/edit/master/README.md.
+This is a service adaptation of the google repository https://github.com/google-research/tapas/edit/master/README.md.
 
 
 ## Installation
