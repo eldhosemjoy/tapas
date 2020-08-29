@@ -4,7 +4,7 @@ This is a service adpatation of the google repository https://github.com/google-
 
 
 ## Installation
-Contains Docker Image that can be built
+Contains Docker File that can be built using the commands given below.
 
     docker build --rm -f ./Dockerfile -t tapas_service:build_v1 .
     
