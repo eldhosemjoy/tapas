@@ -3,7 +3,7 @@
 This is a service adaptation of the google repository https://github.com/google-research/tapas/edit/master/README.md.
 
 ## Model
-The model can be downloaded from - https://drive.google.com/drive/folders/1kZjC3jMImzEt3rO42vpUoWIXlp6UeV4A?usp=sharing
+The model can be downloaded from - https://drive.google.com/drive/folders/1kZjC3jMImzEt3rO42vpUoWIXlp6UeV4A?usp=sharing.
 The downloaded files should be placed in the models directory.
 
 ## Installation
