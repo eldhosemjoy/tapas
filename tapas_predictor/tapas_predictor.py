@@ -105,7 +105,8 @@ class TapasPredictor(object):
         sess_config = tf.ConfigProto(gpu_options=gpu_options)
         persistent_sess = tf.Session(graph=graph, config=sess_config)
     else:
-        persistent_sess = tf.Session(graph=graph)
+        session_conf = tf.ConfigProto(device_count={'CPU' : 1, 'GPU' : 0})
+        persistent_sess = tf.Session(graph=graph, config=session_conf)
     return persistent_sess
 
   def predict(self, table, queries):
